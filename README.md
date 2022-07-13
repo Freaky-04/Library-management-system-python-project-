@@ -4,9 +4,9 @@
 The project was made in python and for the database MySql is used.
 
 
-## Installation
+## Files to import
 
-Install my-project with npm
+import for python
 
 ```python
     from tkinter import *
